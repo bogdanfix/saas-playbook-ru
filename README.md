@@ -11,7 +11,7 @@
 
 ## Как читать
 
-**Самый простой способ:** открыть [GitHub Pages](https://bogdanfix.github.io/saas-playbook-ru/) или скачать EPUB из [Releases](../../releases) и читать на телефоне, в Kindle или Apple Books.
+**Самый простой способ:** открыть [GitHub Pages](https://bogdanfix.github.io/saas-playbook-ru/). EPUB можно собрать позже по инструкции ниже — для чтения на телефоне или в Kindle.
 
 **Локально:** `mkdocs serve` — если хочется посмотреть до публикации.
 
@@ -115,19 +115,12 @@ COPYRIGHT.md     рамки использования
 
 ## Публикация на GitHub Pages
 
-Репозиторий публичный, сайт собирается через GitHub Actions.
+- Репозиторий: <https://github.com/bogdanfix/saas-playbook-ru>
+- Сайт: <https://bogdanfix.github.io/saas-playbook-ru/>
+- Сборка: GitHub Actions, workflow `.github/workflows/pages.yml`.
+- Источник в настройках Pages: **GitHub Actions**.
 
-```bash
-gh repo create saas-playbook-ru --public --source=. --remote=origin --push
-```
-
-Затем:
-
-1. **Settings → Pages → Build and deployment → Source: GitHub Actions.**
-2. Push в `main` запускает `.github/workflows/pages.yml`.
-3. Сайт: <https://bogdanfix.github.io/saas-playbook-ru/>.
-
-Если позже понадобится закрытый доступ, можно переключить репозиторий на private, а для чтения использовать EPUB или Cloudflare Pages + Access.
+Любой push в `main` пересобирает сайт автоматически. Если позже понадобится закрытый доступ, можно переключить репозиторий на private, а для чтения использовать EPUB или Cloudflare Pages + Access.
 
 ---
 
