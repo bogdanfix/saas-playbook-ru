@@ -51,7 +51,7 @@
 
 | English | Русский | Альтернативы / комментарий | Статус |
 |---|---|---|---|
-| product-market fit (PMF) | соответствие продукта рынку (PMF) | далее PMF | ✅ |
+| product-market fit (PMF) | соответствие продукта рынку (PMF) | полная форма предпочтительна; PMF — по контексту | ✅ |
 | market | рынок | | ✅ |
 | niche | ниша | | ✅ |
 | segment | сегмент | | ✅ |
@@ -265,7 +265,6 @@
 | NRR | NRR (чистое удержание выручки) | | ✅ |
 | cohort | когорта | | ✅ |
 | cohort analysis | когортный анализ | | ✅ |
-| conversion rate | конверсия | | ✅ |
 | growth rate | темп роста | | ✅ |
 | quick ratio | quick ratio | | 🟡 |
 | magic number | magic number | | 🟡 |

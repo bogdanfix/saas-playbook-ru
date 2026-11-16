@@ -144,7 +144,7 @@
 | marketing funnel | маркетинговая воронка | |
 | sales demo | демонстрация продукта / демо | |
 | onboarding | онбординг | |
-| customer success | работа с клиентами / customer success | по контексту |
+| customer success | успех клиентов | направление работы с клиентами |
 | churn rate | уровень оттока | |
 | retention | удержание | |
 | LTV | LTV (пожизненная ценность клиента) | |

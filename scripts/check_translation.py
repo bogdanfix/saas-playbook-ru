@@ -22,6 +22,7 @@ from pathlib import Path
 CHAPTERS = Path("chapters")
 REQUIRED_FIELDS = ("title", "original_title", "source_pages", "status")
 ALLOWED_STATUSES = {"todo", "draft", "review", "done"}
+SHORT_FORM = {"01-foreword.md", "10-afterword.md", "11-acknowledgments.md"}
 BANNED_TERMS = {
     "СААС": "SaaS",
     "Саас": "SaaS",
@@ -82,7 +83,7 @@ def check_file(path: Path) -> tuple[list[str], list[str], int]:
             if marker in body:
                 errors.append(f"в готовой главе остался маркер {marker}")
 
-    if not re.search(r"^##\s+\S", clean, re.MULTILINE):
+    if path.name not in SHORT_FORM and not re.search(r"^##\s+\S", clean, re.MULTILINE):
         warnings.append("нет ни одного раздела H2")
 
     for line in clean.splitlines():

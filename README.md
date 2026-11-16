@@ -2,11 +2,13 @@
 
 Неофициальный перевод книги Роба Уоллинга **The SaaS Playbook** для напарника и небольшого круга читателей.
 
-> **Статус:** переведён весь основной текст книги, включая предисловие; черновики ждут финальной вычитки.
+> **Версия:** 1.0 · 16 ноября 2026
+>
+> **Статус:** финальная версия опубликована; весь основной текст переведён и вычитан.
 >
 > **Исходник:** `The-SaaS-Playbook-ebook.pdf` (в репозиторий не коммитится).
 >
-> **Объём:** ≈46 000 слов, 201 страница.
+> **Объём:** ≈44 600 слов основного текста, 201 страница.
 >
 > **План:** [PLAN.md](PLAN.md) · **Стиль:** [STYLEGUIDE.md](STYLEGUIDE.md) · **Термины:** [GLOSSARY.md](GLOSSARY.md) · **Страницы:** [SOURCE-MAP.md](SOURCE-MAP.md)
 
@@ -26,19 +28,20 @@
 
 | № | Глава | Слов | Статус | Файл |
 |---|---|---:|---|---|
-| 00 | Титул и выходные данные | 1 209 | ⬜ не начато | [00-frontmatter.md](chapters/00-frontmatter.md) |
-| 01 | Предисловие | 1 108 | 🟡 черновик | [01-foreword.md](chapters/01-foreword.md) |
-| 02 | Введение | 2 083 | 🟡 черновик | [02-introduction.md](chapters/02-introduction.md) |
-| 03 | Плейбук создания SaaS-компании | 3 050 | 🟡 черновик | [03-playbook.md](chapters/03-playbook.md) |
-| 04 | Рынок | 5 984 | 🟡 черновик | [04-market.md](chapters/04-market.md) |
-| 05 | Ценообразование | 5 164 | 🟡 черновик | [05-pricing.md](chapters/05-pricing.md) |
-| 06 | Маркетинг | 7 316 | 🟡 черновик | [06-marketing.md](chapters/06-marketing.md) |
-| 07 | Команда | 7 009 | 🟡 черновик | [07-team.md](chapters/07-team.md) |
-| 08 | Метрики | 5 329 | ⬜ не начато | [08-metrics.md](chapters/08-metrics.md) |
-| 09 | Мышление | 6 596 | 🟡 черновик | [09-mindset.md](chapters/09-mindset.md) |
-| 10 | Послесловие | 127 | 🟡 черновик | [10-afterword.md](chapters/10-afterword.md) |
-| 11 | Благодарности | 150 | 🟡 черновик | [11-acknowledgments.md](chapters/11-acknowledgments.md) |
-| 12 | Приложение A: Ресурсы | 693 | 🟡 черновик | [12-appendix.md](chapters/12-appendix.md) |
+| 01 | Предисловие | 1 108 | ✅ готово | [01-foreword.md](chapters/01-foreword.md) |
+| 02 | Введение | 2 083 | ✅ готово | [02-introduction.md](chapters/02-introduction.md) |
+| 03 | Плейбук создания SaaS-компании | 3 050 | ✅ готово | [03-playbook.md](chapters/03-playbook.md) |
+| 04 | Рынок | 5 984 | ✅ готово | [04-market.md](chapters/04-market.md) |
+| 05 | Ценообразование | 5 164 | ✅ готово | [05-pricing.md](chapters/05-pricing.md) |
+| 06 | Маркетинг | 7 316 | ✅ готово | [06-marketing.md](chapters/06-marketing.md) |
+| 07 | Команда | 7 009 | ✅ готово | [07-team.md](chapters/07-team.md) |
+| 08 | Метрики | 5 329 | ✅ готово | [08-metrics.md](chapters/08-metrics.md) |
+| 09 | Мышление | 6 596 | ✅ готово | [09-mindset.md](chapters/09-mindset.md) |
+| 10 | Послесловие | 127 | ✅ готово | [10-afterword.md](chapters/10-afterword.md) |
+| 11 | Благодарности | 150 | ✅ готово | [11-acknowledgments.md](chapters/11-acknowledgments.md) |
+| 12 | Приложение A: Ресурсы | 693 | ✅ готово | [12-appendix.md](chapters/12-appendix.md) |
+
+Титул, отзывы, рекламные материалы и раздел «Other Works» в перевод не входят.
 
 Статусы: ⬜ не начато · 🟡 черновик · 🔵 на ревью · ✅ готово.
 
