@@ -1,0 +1,75 @@
+site_name: The SaaS Playbook — русский перевод
+site_description: Приватный перевод книги Роба Уоллинга для личного чтения
+site_author: Private translation
+docs_dir: chapters
+site_dir: site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Тёмная тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Светлая тема
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang: ru
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - О книге: index.md
+  - Предисловие: 01-foreword.md
+  - Введение: 02-introduction.md
+  - Часть I. Плейбук: 03-part-i-playbook.md
+  - Рынок: 04-market.md
+  - Ценообразование: 05-pricing.md
+  - Маркетинг: 06-marketing.md
+  - Команда: 07-team.md
+  - Метрики 80/20: 08-metrics.md
+  - Мышление: 09-mindset.md
+  - Послесловие: 10-afterword.md
+  - Благодарности: 11-acknowledgments.md
+  - "Приложение A: Ресурсы": 12-appendix.md
+  - Титул и выходные данные: 00-frontmatter.md
+
+copyright: >
+  Приватный перевод для личного чтения. Оригинал © 2023 Rob Walling.
+  Не является официальным изданием.

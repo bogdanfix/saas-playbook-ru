@@ -1,0 +1,20 @@
+# Исходники и артефакты, которые не коммитим
+The-SaaS-Playbook-ebook.pdf
+*.pdf
+source/
+dist/
+site/
+*.epub
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
