@@ -27,6 +27,12 @@
 | indie hacker | инди-хакер | | 🟡 |
 | venture capital (VC) | венчурный капитал | VC — только в скобках/аббревиатурой | ✅ |
 | venture-backed | с венчурным финансированием | | ✅ |
+| venture-funded | с венчурным финансированием | | ✅ |
+| self-funded | самофинансирование | | ✅ |
+| mostly bootstrapped | в основном на собственные средства | | ✅ |
+| Series A | раунд Series A | не переводим название раунда | ✅ |
+| private equity | частный капитал | | ✅ |
+| direct-to-consumer (DTC) | direct-to-consumer / напрямую потребителю | по контексту | 🟡 |
 | playbook | плейбук | | ✅ |
 | framework | фреймворк / модель | «фреймворк» — для устойчивых названий | ✅ |
 | cheat code | чит-код | | ✅ |

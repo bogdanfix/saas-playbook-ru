@@ -2,9 +2,12 @@
 
 Неофициальный перевод книги Роба Уоллинга **The SaaS Playbook** для напарника и небольшого круга читателей.
 
-> **Статус:** инфраструктура готова, пилот введения переведён.
-> **Исходник:** `The-SaaS-Playbook-ebook.pdf` (в репозиторий не коммитится).  
-> **Объём:** ≈46 000 слов, 201 страница.  
+> **Статус:** инфраструктура готова, введение и часть I переведены.
+>
+> **Исходник:** `The-SaaS-Playbook-ebook.pdf` (в репозиторий не коммитится).
+>
+> **Объём:** ≈46 000 слов, 201 страница.
+>
 > **План:** [PLAN.md](PLAN.md) · **Стиль:** [STYLEGUIDE.md](STYLEGUIDE.md) · **Термины:** [GLOSSARY.md](GLOSSARY.md) · **Страницы:** [SOURCE-MAP.md](SOURCE-MAP.md)
 
 ---
@@ -23,11 +26,10 @@
 
 | № | Глава | Слов | Статус | Файл |
 |---|---|---:|---|---|
-| — | Пилот: Введение | 1 273 | 🟡 черновик | [pilot.md](chapters/pilot.md) |
 | 00 | Титул и выходные данные | 1 209 | ⬜ не начато | [00-frontmatter.md](chapters/00-frontmatter.md) |
 | 01 | Предисловие | 1 108 | ⬜ не начато | [01-foreword.md](chapters/01-foreword.md) |
-| 02 | Введение | 2 083 | ⬜ не начато | [02-introduction.md](chapters/02-introduction.md) |
-| 03 | Часть I. Плейбук | 3 050 | ⬜ не начато | [03-part-i-playbook.md](chapters/03-part-i-playbook.md) |
+| 02 | Введение | 2 083 | 🟡 черновик | [02-introduction.md](chapters/02-introduction.md) |
+| 03 | Часть I. Плейбук | 3 050 | 🟡 черновик | [03-part-i-playbook.md](chapters/03-part-i-playbook.md) |
 | 04 | Рынок | 5 984 | ⬜ не начато | [04-market.md](chapters/04-market.md) |
 | 05 | Ценообразование | 5 164 | ⬜ не начато | [05-pricing.md](chapters/05-pricing.md) |
 | 06 | Маркетинг | 7 316 | ⬜ не начато | [06-marketing.md](chapters/06-marketing.md) |

@@ -57,7 +57,6 @@ markdown_extensions:
 
 nav:
   - О книге: index.md
-  - "Пилот: Введение": pilot.md
   - Предисловие: 01-foreword.md
   - Введение: 02-introduction.md
   - Часть I. Плейбук: 03-part-i-playbook.md
