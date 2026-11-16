@@ -188,6 +188,28 @@
 | manager | руководитель / менеджер | «руководитель» предпочтительнее | ✅ |
 | management | управление / менеджмент | | ✅ |
 | supervisor | супервайзер / непосредственный руководитель | | 🟡 |
+| department | отдел | | ✅ |
+| product manager | менеджер по продукту | | ✅ |
+| UX designer | UX-дизайнер | | ✅ |
+| SDR (sales development representative) | представитель по развитию продаж (SDR) | | ✅ |
+| BDR (business development representative) | представитель по развитию бизнеса (BDR) | | ✅ |
+| account executive (AE) | менеджер по продажам (AE) | не «аккаунт-менеджер» | ✅ |
+| customer support representative | специалист поддержки | | ✅ |
+| individual contributor | специалист без управления (individual contributor) | | ✅ |
+| generalist | универсал | | ✅ |
+| job title | название должности | | ✅ |
+| job description | описание вакансии | | ✅ |
+| recruiter | рекрутер | | ✅ |
+| one-on-one | встреча один на один | | ✅ |
+| direct report | прямой подчинённый | | ✅ |
+| task-level thinker | человек, мыслящий на уровне задач | | ✅ |
+| project-level thinker | человек, мыслящий на уровне проектов | | ✅ |
+| owner-level thinker | человек, мыслящий на уровне владельца | | ✅ |
+| hire slow, fire fast | нанимать медленно, увольнять быстро | | ✅ |
+| single founder | основатель-одиночка | | ✅ |
+| pass-through entity | прозрачная для налогообложения структура | | ✅ |
+| strike price | цена исполнения (strike price) | | ✅ |
+| 401(k) | 401(k) | название пенсионного плана в США | ✅ |
 | equity | доля / equity | по контексту | ✅ |
 | stock options | опционы на акции | | ✅ |
 | profit sharing | участие в прибыли | | ✅ |
