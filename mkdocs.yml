@@ -59,7 +59,7 @@ nav:
   - О книге: index.md
   - Предисловие: 01-foreword.md
   - Введение: 02-introduction.md
-  - Часть I. Плейбук: 03-part-i-playbook.md
+  - Плейбук создания SaaS-компании: 03-playbook.md
   - Рынок: 04-market.md
   - Ценообразование: 05-pricing.md
   - Маркетинг: 06-marketing.md
@@ -69,7 +69,6 @@ nav:
   - Послесловие: 10-afterword.md
   - Благодарности: 11-acknowledgments.md
   - "Приложение A: Ресурсы": 12-appendix.md
-  - Титул и выходные данные: 00-frontmatter.md
 
 copyright: >
   Неофициальный перевод. Оригинал © 2023 Rob Walling.

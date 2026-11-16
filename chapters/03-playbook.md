@@ -1,5 +1,5 @@
 ---
-title: "Часть I. Плейбук SaaS-компании на миллионы долларов"
+title: "Плейбук создания SaaS-компании на миллионы долларов"
 original_title: "The Playbook for Building a Multimillion-Dollar SaaS"
 source_pages: "30–43"
 status: draft
@@ -8,7 +8,7 @@ editor: ""
 updated: "2026-11-16"
 ---
 
-# Часть I. Плейбук SaaS-компании на миллионы долларов
+# Плейбук создания SaaS-компании на миллионы долларов
 
 ## Круто же: миллион долларов
 
