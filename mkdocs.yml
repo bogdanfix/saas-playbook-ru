@@ -1,6 +1,7 @@
 site_name: The SaaS Playbook — русский перевод
-site_description: Приватный перевод книги Роба Уоллинга для личного чтения
+site_description: Неофициальный перевод книги Роба Уоллинга
 site_author: Private translation
+site_url: https://bogdanfix.github.io/saas-playbook-ru/
 docs_dir: chapters
 site_dir: site
 use_directory_urls: true
@@ -56,6 +57,7 @@ markdown_extensions:
 
 nav:
   - О книге: index.md
+  - "Пилот: Введение": pilot.md
   - Предисловие: 01-foreword.md
   - Введение: 02-introduction.md
   - Часть I. Плейбук: 03-part-i-playbook.md
@@ -71,5 +73,5 @@ nav:
   - Титул и выходные данные: 00-frontmatter.md
 
 copyright: >
-  Приватный перевод для личного чтения. Оригинал © 2023 Rob Walling.
-  Не является официальным изданием.
+  Неофициальный перевод. Оригинал © 2023 Rob Walling.
+  Права на оригинал принадлежат автору.
