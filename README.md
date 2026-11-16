@@ -70,7 +70,8 @@ mkdocs build
 
 ```bash
 brew install pandoc
-pandoc chapters/*.md \
+mkdir -p dist
+pandoc chapters/index.md chapters/0*.md chapters/1*.md \
   --metadata title="The SaaS Playbook. Русский перевод" \
   --metadata lang=ru-RU \
   --toc --toc-depth=2 \
